@@ -1,2 +1,2 @@
 # cryptoright
-CrytoRight Blockchain Copyright System
+CryptoRight Blockchain Copyright System.  Click [Here](frontend/index.html)
